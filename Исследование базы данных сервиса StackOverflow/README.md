@@ -12,7 +12,6 @@ ER-диаграмма базы:
 
 - python
 - pandas
-- numpy
 - SQL
 - SQLAlchemy
 
